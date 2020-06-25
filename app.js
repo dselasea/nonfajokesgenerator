@@ -10,11 +10,12 @@ const nonfaJokes = [
   },
   {
     author: "",
-    joke: "What is a well-read cat's favorite book? A: Of Mice and Men",
+    joke:
+      "When a Ga man wants to say 'Solomon don't fool', Im sure he would say SOLOMON KALOU",
   },
   {
     author: "Kwaku Darko",
-    joke: "Butts talking. Is that not Buttocks?",
+    joke: "I was walking and I saw a TIE on the LAND. I think im in #THAILAND",
   },
   {
     author: "",
@@ -43,7 +44,27 @@ const nonfaJokes = [
   },
   {
     author: "",
+    joke: "If Dem Blast somebody cus of Fame...Eno be BLASPHEMY #chr333d333r",
+  },
+  {
+    author: "",
+    joke: "If the rapper you like is an Alcoholic...then he be RAPPERHOLIC.",
+  },
+  {
+    author: "",
     joke: "If a Mass Server goes to court, isn't he a Mascot? #chr333d333r",
+  },
+  {
+    author: "",
+    joke: "Everyday I lend cars, does that make ma a CALENDAR",
+  },
+  {
+    author: "",
+    joke: "My ex went to board a plane. Call that EXPLAIN #chr333d333r",
+  },
+  {
+    author: "",
+    joke: "If Aku love money, she is an obvious Akusika",
   },
 ];
 
