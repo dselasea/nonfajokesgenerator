@@ -72,6 +72,8 @@ const content = document.getElementById("content");
 const leftArrow = document.getElementById("left");
 const rightArrow = document.getElementById("right");
 const random = document.getElementById("random");
+const number = document.querySelector("#number");
+const total = document.querySelector("#total");
 
 let jokes = 0;
 
@@ -82,6 +84,8 @@ window.addEventListener("DOMContentLoaded", () => {
 function displayJokes(nonfa) {
   const item = nonfaJokes[nonfa];
   content.textContent = item.joke;
+  number.textContent = jokes + 1;
+  total.textContent = nonfaJokes.length;
 }
 
 leftArrow.addEventListener("click", () => {

@@ -26,6 +26,10 @@ body {
   font-size: 18px;
 }
 
+h1 {
+  margin-bottom: 10px;
+}
+
 .arrows {
   margin-top: 1rem;
 }
